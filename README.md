@@ -14,6 +14,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 
     Buat flowchart dan penjelasan programnya
+![Screenshot_20241202_044544_Chrome](https://github.com/user-attachments/assets/e85695b8-b9e9-40c2-8294-f5b75e051e58)
+![Screenshot_20241202_044559_Chrome](https://github.com/user-attachments/assets/8f4b16f8-0bd7-4cfd-8cd7-957a727779f3)
 
 # Menu Tambah Data
 1. Fungsi ini menerima dua parameter: nama dan nilai.
@@ -21,6 +23,13 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 2. Fungsi ini akan menambahkan dictionary yang berisi nama dan nilai mahasiswa ke dalam list mahasiswa.
 
 3. Setelah menambahkan data, fungsi akan mencetak pesan konfirmasi.
+
+# Menu Tampilkan Data
+1. Fungsi ini menampilkan semua data mahasiswa yang tersimpan dalam list.
+
+2. Jika list mahasiswa kosong, akan ditampilkan pesan bahwa tidak ada data.
+
+3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
 
 # Menu Hapus Data
 1. Fungsi ini menghapus data mahasiswa berdasarkan nama yang diberikan.
