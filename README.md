@@ -34,7 +34,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
 
 # Menu Hapus Data
-
+![Screenshot_20241202_044112_Chrome](https://github.com/user-attachments/assets/4a585632-5d18-49b4-b0ab-74dbca379edf)
 1. Fungsi ini menghapus data mahasiswa berdasarkan nama yang diberikan.
 
 2. Menggunakan list comprehension, fungsi ini membuat list baru _mhs yang berisi semua mahasiswa kecuali yang namanya sama dengan nama yang diberikan.
@@ -51,6 +51,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 3.Jika data ditemukan, akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
 # Flowchart
+![Screenshot_20241202_044112_Chrome](https://github.com/user-attachments/assets/4a585632-5d18-49b4-b0ab-74dbca379edf)
 
 # Latihan 11
 Ubahlah kode dibawah ini menjadi fungsi menggunakan lambada import math
@@ -63,3 +64,5 @@ def c(*args): return sum(args)/len(args)
 
 def d(s): return "".join(set(s))
 
+![Screenshot_20241202_051139_Chrome](https://github.com/user-attachments/assets/9279e67d-23d3-47cd-b195-590b37f17da7)
+![Screenshot_20241202_051201_Chrome](https://github.com/user-attachments/assets/67b610f2-2810-463e-9ec9-ccbb2b9e0dc2)
