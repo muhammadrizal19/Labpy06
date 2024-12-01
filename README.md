@@ -18,6 +18,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 ![Screenshot_20241202_044559_Chrome](https://github.com/user-attachments/assets/8f4b16f8-0bd7-4cfd-8cd7-957a727779f3)
 
 # Menu Tambah Data
+![Screenshot_20241202_045206_Chrome](https://github.com/user-attachments/assets/e6aee604-2cbc-4077-8b50-fa55c9b183c7)
 1. Fungsi ini menerima dua parameter: nama dan nilai.
 
 2. Fungsi ini akan menambahkan dictionary yang berisi nama dan nilai mahasiswa ke dalam list mahasiswa.
@@ -25,6 +26,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 3. Setelah menambahkan data, fungsi akan mencetak pesan konfirmasi.
 
 # Menu Tampilkan Data
+![Screenshot_20241202_045425_Chrome](https://github.com/user-attachments/assets/db898ae6-d121-487a-9b48-d2588a2109fc)
 1. Fungsi ini menampilkan semua data mahasiswa yang tersimpan dalam list.
 
 2. Jika list mahasiswa kosong, akan ditampilkan pesan bahwa tidak ada data.
@@ -32,6 +34,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
 
 # Menu Hapus Data
+
 1. Fungsi ini menghapus data mahasiswa berdasarkan nama yang diberikan.
 
 2. Menggunakan list comprehension, fungsi ini membuat list baru _mhs yang berisi semua mahasiswa kecuali yang namanya sama dengan nama yang diberikan.
@@ -39,6 +42,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 3. Jika ada perubahan dalam jumlah mahasiswa, maka data mahasiswa diupdate dan akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
 # Menu Ubah Data
+![Screenshot_20241202_045250_Chrome](https://github.com/user-attachments/assets/0b5aeed5-e2f0-4835-a445-759a3c2b4d22)
+
 1.Fungsi ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama.
 
 2.Fungsi ini mencari mahasiswa yang namanya sama dengan nama yang diberikan dan mengubah nilainya menjadi nilai_baru.
