@@ -34,7 +34,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
 
 # Menu Hapus Data
-![Screenshot_20241202_044112_Chrome](https://github.com/user-attachments/assets/4a585632-5d18-49b4-b0ab-74dbca379edf)
+![Screenshot_20241202_045236_Chrome](https://github.com/user-attachments/assets/9e5f3dea-8025-4a6a-bad4-bbc3f0558aa6)
+
 1. Fungsi ini menghapus data mahasiswa berdasarkan nama yang diberikan.
 
 2. Menggunakan list comprehension, fungsi ini membuat list baru _mhs yang berisi semua mahasiswa kecuali yang namanya sama dengan nama yang diberikan.
